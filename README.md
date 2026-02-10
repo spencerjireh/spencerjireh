@@ -2,8 +2,9 @@
 
 **Backend-leaning software engineer building at the intersection of full-stack development and applied AI.**
 
-I build products end-to-end and integrate AI/ML where it makes the work better.
-Interested in agentic AI, distributed systems, and self-hosting.
+I build products end-to-end -- from backend architecture and infrastructure to
+frontend -- and integrate AI/ML where it makes the work better. Interested in
+agentic AI, distributed systems, and self-hosting.
 
 ---
 
