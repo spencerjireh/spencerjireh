@@ -9,7 +9,7 @@ agentic AI, distributed systems, and self-hosting.
 ---
 
 **Languages:** Python, JavaScript/TypeScript, Java, Go<br>
-**Backend:** FastAPI, Node.js, NestJS, Spring Boot<br>
+**Backend:** FastAPI, Express, NestJS, Spring Boot<br>
 **Frontend:** React, Next.js, Svelte<br>
 **AI/ML:** LangChain, LangGraph, TensorFlow, Scikit-learn<br>
 **Infra:** AWS, Docker, Kubernetes, PostgreSQL
