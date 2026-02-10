@@ -1,0 +1,88 @@
+<svg width="800" height="140" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(8px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes fadeInSlow {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 0.3; }
+      50% { opacity: 0.7; }
+    }
+    .name {
+      font-family: Georgia, 'Times New Roman', serif;
+      font-size: 32px;
+      fill: #e0d6c8;
+      opacity: 0;
+      animation: fadeIn 1.2s ease-out 0.3s forwards;
+    }
+    .subtitle {
+      font-family: 'Courier New', monospace;
+      font-size: 14px;
+      fill: #7a7268;
+      letter-spacing: 2px;
+      opacity: 0;
+      animation: fadeIn 1.2s ease-out 0.8s forwards;
+    }
+    .line {
+      fill: #7a7268;
+      opacity: 0;
+      animation: fadeIn 1s ease-out 1.3s forwards;
+    }
+    .constellation {
+      opacity: 0;
+      animation: fadeInSlow 2s ease-out 1.5s forwards;
+    }
+    .dot {
+      fill: #7a7268;
+    }
+    .dot-bright {
+      fill: #e0d6c8;
+      animation: pulse 4s ease-in-out infinite;
+    }
+    .link {
+      stroke: #4a4440;
+      stroke-width: 0.8;
+    }
+  </style>
+  <rect width="800" height="140" fill="#1a1816"/>
+  <text class="name" x="40" y="65">Hi, I'm Spencer</text>
+  <rect class="line" x="40" y="82" width="60" height="1.5" rx="1"/>
+  <text class="subtitle" x="40" y="108">SOFTWARE ENGINEER</text>
+
+  <!-- constellation -->
+  <g class="constellation">
+    <!-- links between nodes -->
+    <line class="link" x1="480" y1="35" x2="530" y2="68"/>
+    <line class="link" x1="530" y1="68" x2="590" y2="42"/>
+    <line class="link" x1="590" y1="42" x2="640" y2="75"/>
+    <line class="link" x1="640" y1="75" x2="700" y2="50"/>
+    <line class="link" x1="700" y1="50" x2="750" y2="80"/>
+    <line class="link" x1="530" y1="68" x2="580" y2="100"/>
+    <line class="link" x1="580" y1="100" x2="640" y2="75"/>
+    <line class="link" x1="640" y1="75" x2="690" y2="108"/>
+    <line class="link" x1="700" y1="50" x2="760" y2="32"/>
+
+    <!-- nodes -->
+    <circle class="dot" cx="480" cy="35" r="2"/>
+    <circle class="dot-bright" cx="530" cy="68" r="2.5"/>
+    <circle class="dot" cx="590" cy="42" r="1.8"/>
+    <circle class="dot-bright" cx="640" cy="75" r="2.2"/>
+    <circle class="dot" cx="700" cy="50" r="2"/>
+    <circle class="dot" cx="750" cy="80" r="1.5"/>
+    <circle class="dot" cx="580" cy="100" r="1.8"/>
+    <circle class="dot" cx="690" cy="108" r="1.5"/>
+    <circle class="dot-bright" cx="760" cy="32" r="2"/>
+
+    <!-- scattered ambient dots -->
+    <circle class="dot" cx="500" cy="18" r="1"/>
+    <circle class="dot" cx="620" cy="22" r="1.2"/>
+    <circle class="dot" cx="720" cy="115" r="1"/>
+    <circle class="dot" cx="770" cy="65" r="1"/>
+    <circle class="dot" cx="460" cy="90" r="1.2"/>
+    <circle class="dot" cx="550" cy="120" r="1"/>
+  </g>
+</svg>
