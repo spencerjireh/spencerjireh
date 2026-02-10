@@ -2,21 +2,19 @@
 
 **Backend-leaning software engineer building at the intersection of full-stack development and applied AI.**
 
-<a href="https://spencerjireh.com">website</a> · <a href="https://www.linkedin.com/in/spencerjireh/">linkedin</a> · <a href="mailto:spencercebrian123@gmail.com">email</a>
-
----
-
 I build products end-to-end and integrate AI/ML where it makes the work better.
 Interested in agentic AI, distributed systems, and self-hosting.
 
 ### Stack
 
-**Languages:** Python, JavaScript/TypeScript, Java, Go
-**Backend:** FastAPI, Node.js, NestJS, Spring Boot
-**Frontend:** React, Next.js, Svelte
-**AI/ML:** LangChain, LangGraph, TensorFlow, Scikit-learn
+**Languages:** Python, JavaScript/TypeScript, Java, Go<br>
+**Backend:** FastAPI, Node.js, NestJS, Spring Boot<br>
+**Frontend:** React, Next.js, Svelte<br>
+**AI/ML:** LangChain, LangGraph, TensorFlow, Scikit-learn<br>
 **Infra:** AWS, Docker, Kubernetes, PostgreSQL
 
 ---
+
+<a href="https://spencerjireh.com">website</a> · <a href="https://www.linkedin.com/in/spencerjireh/">linkedin</a> · <a href="mailto:spencercebrian123@gmail.com">email</a>
 
 <sub>Pinned repos below. Most things are perpetually WIP.</sub>
