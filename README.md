@@ -5,7 +5,7 @@
 I build products end-to-end and integrate AI/ML where it makes the work better.
 Interested in agentic AI, distributed systems, and self-hosting.
 
-### Stack
+---
 
 **Languages:** Python, JavaScript/TypeScript, Java, Go<br>
 **Backend:** FastAPI, Node.js, NestJS, Spring Boot<br>
