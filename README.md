@@ -4,7 +4,7 @@
 
 I build products end-to-end -- from backend architecture and infrastructure to
 frontend -- and integrate AI/ML where it makes the work better. Interested in
-agentic AI, distributed systems, and self-hosting.
+agentic AI, financial systems, distributed systems, and self-hosting.
 
 ---
 
