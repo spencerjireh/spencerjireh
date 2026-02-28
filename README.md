@@ -16,6 +16,6 @@ agentic AI, financial systems, distributed systems, and self-hosting.
 
 ---
 
-<a href="https://spencerjireh.com">website</a> · <a href="https://www.linkedin.com/in/spencerjireh/">linkedin</a> · <a href="mailto:spencercebrian123@gmail.com">email</a>
+<a href="https://spencerjireh.com">website</a> · <a href="https://www.linkedin.com/in/spencerjireh/">linkedin</a> · <a href="mailto:email@spencerjireh.com">email</a>
 
 <sub>Pinned repos below. Most things are perpetually WIP.</sub>
