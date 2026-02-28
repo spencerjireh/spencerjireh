@@ -1,9 +1,9 @@
 <img src="banner.svg" alt="Hi, I'm Spencer -- Software Engineer" width="800"/>
 
-**Backend-leaning software engineer building at the intersection of full-stack development and applied AI.**
+**Backend-leaning software engineer working at the intersection of full-stack development and applied AI.**
 
-I build products end-to-end -- from backend architecture and infrastructure to
-frontend -- and integrate AI/ML where it makes the work better. Interested in
+I build products end-to-end, from backend architecture and infrastructure to
+frontend, and integrate AI/ML where it makes the work better. Interested in
 agentic AI, financial systems, distributed systems, and self-hosting.
 
 ---
