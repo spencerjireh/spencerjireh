@@ -29,8 +29,8 @@ agentic AI, financial systems, distributed systems, and self-hosting.
 </p>
 
 <p align="center">
-  <img width="30%" src="https://streak-stats.demolab.com?user=spencerjireh&hide_border=true&background=141210&ring=f0dfc8&fire=f0dfc8&currStreakLabel=8f8476&sideLabels=8f8476&dates=8f8476&sideNums=f0dfc8&currStreakNum=f0dfc8" alt="GitHub streak stats" />
-  <img width="69%" src="https://github-readme-activity-graph.vercel.app/graph?username=spencerjireh&bg_color=141210&color=f0dfc8&line=8f8476&point=f0dfc8&hide_border=true" alt="GitHub activity graph" />
+  <img width="35%" src="https://streak-stats.demolab.com?user=spencerjireh&hide_border=true&background=141210&ring=f0dfc8&fire=f0dfc8&currStreakLabel=8f8476&sideLabels=8f8476&dates=8f8476&sideNums=f0dfc8&currStreakNum=f0dfc8" alt="GitHub streak stats" />
+  <img width="64%" src="https://github-readme-activity-graph.vercel.app/graph?username=spencerjireh&bg_color=141210&color=f0dfc8&line=8f8476&point=f0dfc8&hide_border=true" alt="GitHub activity graph" />
 </p>
 
 
