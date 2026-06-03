@@ -2,12 +2,6 @@
   <img src="banner.svg" alt="Hi, I'm Spencer -- Software Engineer" width="100%"/>
 </p>
 
-**Software engineer working at the intersection of full-stack development and applied AI.**
-
-I build products end-to-end, from backend architecture and infrastructure to
-frontend, and integrate AI/ML where it makes the work better. Interested in
-agentic AI, financial systems, distributed systems, and self-hosting.
-
 ---
 
 **Languages:** Python, JavaScript/TypeScript, Java, Go<br>
