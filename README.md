@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="banner.svg" alt="Hi, I'm Spencer -- Software Engineer" width="100%"/>
-</p>
-
----
 
 **Languages:** Python, JavaScript/TypeScript, Java, Go<br>
 **Backend:** FastAPI, Express, NestJS, Spring Boot<br>
@@ -15,17 +10,5 @@
 <a href="https://spencerjireh.com">website</a> · <a href="https://www.linkedin.com/in/spencerjireh/">linkedin</a> · <a href="mailto:email@spencerjireh.com">email@spencerjireh.com</a>
 
 ---
-
-<p align="center">
-  <img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=spencerjireh&theme=github_dark" alt="GitHub summary stats" />
-  <img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spencerjireh&theme=github_dark" alt="Top languages" />
-  <img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spencerjireh&theme=github_dark" alt="Most commit language" />
-</p>
-
-<p align="center">
-  <img width="47%" src="https://streak-stats.demolab.com?user=spencerjireh&hide_border=true&background=141210&ring=f0dfc8&fire=f0dfc8&currStreakLabel=8f8476&sideLabels=8f8476&dates=8f8476&sideNums=f0dfc8&currStreakNum=f0dfc8" alt="GitHub streak stats" />
-  <img width="52%" src="https://github-readme-activity-graph.vercel.app/graph?username=spencerjireh&bg_color=141210&color=f0dfc8&line=8f8476&point=f0dfc8&hide_border=true" alt="GitHub activity graph" />
-</p>
-
 
 <sub>Pinned repos below. Most things are perpetually WIP.</sub>
